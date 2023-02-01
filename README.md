@@ -1,2 +1,1 @@
-###### [1-爱心]
-(https://ljx.github.io/Love.html)
+###### [爱心](https://ljx.github.io/Love.html)
